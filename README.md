@@ -4,10 +4,9 @@ In this project I use the Random Forest Classifier to predict if people survived
 # Details
 The dataset I am going to use in this assigment are the US data, for 1997-2002, from police-reported car crashes in which there is a harmful event (people or property), and from which at least one vehicle was towed. Data are restricted to front-seat occupants and include only a subset of the variables recorded.
 
-### columns:
-dvcat: ordered factor with levels (estimated impact speeds) 1-9km/h, 10-24, 25-39, 40-54, 55+
-
-weight: Observation weights, albeit of uncertain accuracy, designed to account for varying sampling probabilities.
+## columns:
+### dvcat: ordered factor with levels (estimated impact speeds) 1-9km/h, 10-24, 25-39, 40-54, 55+
+### weight: Observation weights, albeit of uncertain accuracy, designed to account for varying sampling probabilities.
 
 dead: factor with levels alive dead
 airbag: a factor with levels: airbag, none

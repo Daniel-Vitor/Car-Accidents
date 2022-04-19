@@ -6,7 +6,9 @@ The dataset I am going to use in this assigment are the US data, for 1997-2002, 
 
 ### columns:
 dvcat: ordered factor with levels (estimated impact speeds) 1-9km/h, 10-24, 25-39, 40-54, 55+
+
 weight: Observation weights, albeit of uncertain accuracy, designed to account for varying sampling probabilities.
+
 dead: factor with levels alive dead
 airbag: a factor with levels: airbag, none
 seatbelt: a factor with levels: belted, none

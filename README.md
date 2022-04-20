@@ -1,5 +1,5 @@
 # Car-Accidents
-In this project I use the Random Forest Classifier to predict if people survived car accidents
+In this project I use Python with Random Forest Classifier to predict if people survived car accidents and I did the same with R language and I used Naivebayes Classifier.
 
 # Details
 The dataset I am going to use in this assigment are the US data, for 1997-2002, from police-reported car crashes in which there is a harmful event (people or property), and from which at least one vehicle was towed. Data are restricted to front-seat occupants and include only a subset of the variables recorded.
